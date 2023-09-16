@@ -7,7 +7,7 @@ These were used with Aiwa Series 50 and 60 mini-component stereo systems from ar
 
 Being an extremely early IR remote these don't use more modern "higher-level" protocols, and modern equipment can have trouble understanding these remotes. 
 
-By using `ir-ctl` and confirming with an oscilliscope, we discover the following attributes:
+By using `ir-ctl` and confirming with an oscilloscope, we discover the following attributes:
 
 - Carrier frequency @ 30.5kHz
 - Space encoded
