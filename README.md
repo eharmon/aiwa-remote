@@ -3,6 +3,8 @@ Aiwa RC-T300 / Aiwa RC-R300
 
 Remote key codes for the Aiwa RC-T300 remote control and RC-R300 remote control reciever.
 
+These models were also produced by WEGA as the RU4 remote control and RA40 remote contorl reciever, and codes are compatible.
+
 These were used with Aiwa Series 50 and 60 mini-component stereo systems from around 1980. These codes may also be compatible with the System 80, which used an RC-R500 remote control reciever.
 
 Being an extremely early IR remote these don't use more modern "higher-level" protocols, and modern equipment can have trouble understanding these remotes. 

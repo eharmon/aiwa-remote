@@ -47,9 +47,11 @@ case $1 in
 	tuning-up | tune-up)
 		KEY="CHANNELUP"
 		;;
+
 	start | cut | start-cut)
 		KEY="CUT"
 		;;
+
 	rec | record)
 		KEY="RECORD"
 		;;
